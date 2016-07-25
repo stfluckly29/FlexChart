@@ -22,7 +22,7 @@ pod "FlexChart"
 
 ## Author
 
-boris, borisrockstar
+Stefan Klein
 
 ## License
 

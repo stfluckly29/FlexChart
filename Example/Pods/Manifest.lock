@@ -1,0 +1,16 @@
+PODS:
+  - FlexChart (0.1.0)
+
+DEPENDENCIES:
+  - FlexChart (from `../`)
+
+EXTERNAL SOURCES:
+  FlexChart:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FlexChart: 35ce27b841c6ead2af8695fa3ff585a62986f45c
+
+PODFILE CHECKSUM: e639b20d751a17106cf159fd9e0af82207570138
+
+COCOAPODS: 1.0.0

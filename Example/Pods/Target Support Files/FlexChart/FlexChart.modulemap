@@ -1,0 +1,6 @@
+framework module FlexChart {
+  umbrella header "FlexChart-umbrella.h"
+
+  export *
+  module * { export * }
+}
