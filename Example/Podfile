@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FlexChart_Tests' do
+  pod 'FlexChart', :path => '../'
+  
+  
+end
